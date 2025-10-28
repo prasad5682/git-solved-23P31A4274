@@ -18,3 +18,4 @@ set NODE_ENV=development
 npm install
 npm run dev
 "## FAQ" 
+"update" 
