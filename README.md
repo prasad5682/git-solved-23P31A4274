@@ -17,3 +17,4 @@ set DEPLOY_ENV=production
 set NODE_ENV=development
 npm install
 npm run dev
+"## FAQ" 
