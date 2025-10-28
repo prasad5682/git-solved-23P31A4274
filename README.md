@@ -1,37 +1,19 @@
 # DevOps Simulator
 
-A comprehensive CI/CD configuration management tool for enterprise deployments.
+A comprehensive CI/CD configuration management tool.
 
 ## Project Status
-- **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
-- **Environments**: Production & Development
-- **Student**: [YOUR NAME]
-- **Student ID**: [YOUR ID]
-
-## Features
-
-### Core Features
-- Automated deployment scripts
-- Real-time monitoring
-- Configuration management
-- Backup and recovery system
-
-### Production Features
-- SSL/TLS encryption
-- Auto-scaling
-- Load balancer integration
-- Scheduled backups
-
-### Development Features (Beta)
-- Docker Compose integration
-- Hot reload enabled
-- Debug mode active
-- Enhanced logging
-- Mock external APIs
+- Version: 1.0.0 (Production), 2.0.0-beta (Dev)
+- Environments: Production & Development
+- Student: Prasad Yarramneedi
+- Student ID: 23P31A4274
 
 ## Quick Start
-
-### Production Mode
-```bash
-export DEPLOY_ENV=production
+### Production
+set DEPLOY_ENV=production
 ./scripts/deploy.sh
+
+### Development
+set NODE_ENV=development
+npm install
+npm run dev
