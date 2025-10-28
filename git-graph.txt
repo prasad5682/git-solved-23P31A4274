@@ -1,8 +1,8 @@
-* b84a295 (HEAD -> main, origin/main) docs: Add changelog
-* 19afe62 docs: Add GIT_JOURNEY.md with full challenge summary
-| * 0e38405 (feature/another-feature) docs: Add final project artifacts
-| * 530b76f docs: Add changelog
-| * bda080b (origin/feature/another-feature) Bad commit
+* 0e38405 (HEAD -> feature/another-feature) docs: Add final project artifacts
+* 530b76f docs: Add changelog
+* bda080b (origin/feature/another-feature) Bad commit
+* 19afe62 (origin/main, main) docs: Add GIT_JOURNEY.md with full challenge summary
+* b84a295 docs: Add changelog
 |/  
 * 9e4fcc0 feat: Add test feature
 * 49b4115 (tag: v1.1.0, tag: v1.0.0) docs: Update README
